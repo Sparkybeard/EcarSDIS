@@ -18,7 +18,7 @@
             that are made available by the JAX-WS runtime to the handlers.
         -->
         <handler>
-            <handler-class>com.ecar.T04.ws.handler.PrettyLogHandler</handler-class>
+            <handler-class>com.ecar.ws.handler.PrettyLogHandler</handler-class>
         </handler>
         <!--handler>
             <handler-class>example.ws.handler.MessageContextHandler</handler-class>
@@ -46,7 +46,7 @@
             Print the SOAP message with added indentation for easier reading.
         -->
         <handler>
-            <handler-class>com.ecar.T04.ws.handler.PrettyLogHandler</handler-class>
+            <handler-class>com.ecar.ws.handler.PrettyLogHandler</handler-class>
         </handler>
 
 	</handler-chain>

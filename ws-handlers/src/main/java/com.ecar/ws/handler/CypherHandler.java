@@ -1,12 +1,35 @@
 package com.ecar.ws.handler;
 
+import javax.crypto.Cipher;
+import java.io.PrintStream;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.Set;
+
+import javax.xml.namespace.QName;
+import javax.xml.soap.SOAPException;
+import javax.xml.soap.SOAPMessage;
+import javax.xml.transform.OutputKeys;
+import javax.xml.transform.Source;
+import javax.xml.transform.Transformer;
+import javax.xml.transform.TransformerConfigurationException;
+import javax.xml.transform.TransformerException;
+import javax.xml.transform.TransformerFactory;
+import javax.xml.transform.stream.StreamResult;
+import javax.xml.ws.handler.MessageContext;
+import javax.xml.ws.handler.soap.SOAPHandler;
+import javax.xml.ws.handler.soap.SOAPMessageContext;
+
+
 public class CypherHandler implements SOAPHandler<SOAPMessageContext> {
     public static final String CONTEXT_PROPERTY = "my.property";
+    private static byte[] encodedKey = {(byte) 0x13, (byte) 0x45, (byte) 0x02};
+
+    public static final String key = "hveycfoCR";
 
     //
     // Handler interface implementation
     //
-
     /**
      * Gets the header blocks that can be processed by this Handler instance. If
      * null, processes all.
@@ -28,12 +51,18 @@ public class CypherHandler implements SOAPHandler<SOAPMessageContext> {
 
         try {
             if (outboundElement.booleanValue()) {
+
+                this.cypherSOAPoutbound();
+
+
                 System.out.println("Writing header to OUTbound SOAP message...");
 
                 // get SOAP envelope
                 SOAPMessage msg = smc.getMessage();
                 SOAPPart sp = msg.getSOAPPart();
                 SOAPEnvelope se = sp.getEnvelope();
+
+
 
                 // add header
                 SOAPHeader sh = se.getHeader();
@@ -113,8 +142,13 @@ public class CypherHandler implements SOAPHandler<SOAPMessageContext> {
         // nothing to clean up
     }
 
-    public void cypherSOAP() {
-        private static byte[] encodedKey = { (byte) 0x13, (byte) 0x45, (byte) 0x02 };
-        SecretKeySpec secretKeySpec = new SecretKeySpec(key, "AES");
+    public void cypherSOAPinbound() {
+
+            SecretKeySpec secretKeySpec = new SecretKeySpec(key, "AES");
+    }
+
+    public void cypherSOAPoutbound() {
+
+
     }
 }
