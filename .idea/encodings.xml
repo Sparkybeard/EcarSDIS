@@ -6,5 +6,6 @@
     <file url="file://$PROJECT_DIR$/ecar-ws-cli" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/park-ws" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/park-ws-cli" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ws-handlers" charset="UTF-8" />
   </component>
 </project>

@@ -2,15 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bedcabe-5354-4ba3-9619-82d58e249f57" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecar-ws-cli/src/jaxws/ImplService_handler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ecar-ws-cli/src/jaxws/ImplService_handler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ws-handlers/src/main/java/com.ecar/ws/handler/CypherHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ws-handlers/src/main/java/com.ecar/ws/handler/CypherHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/.idea/libraries/Maven__com_sun_xml_ws_jaxws_rt_2_2_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/.idea/libraries/Maven__commons_beanutils_commons_beanutils_core_1_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/.idea/libraries/Maven__commons_configuration_commons_configuration_1_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/.idea/libraries/Maven__javax_xml_registry_javax_xml_registry_api_1_0_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/.idea/libraries/Maven__org_apache_juddi_juddi_client_3_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/.idea/libraries/Maven__org_apache_juddi_scout_scout_1_2_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/.idea/libraries/Maven__org_apache_juddi_uddi_ws_3_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/.idea/libraries/Maven__pt_ulisboa_tecnico_sdis_uddi_naming_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/.idea/libraries/Maven__wsdl4j_wsdl4j_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/kerby-lib/kerby-lib.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/kerby-ws-cli/kerby-ws-cli.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/kerby-ws/kerby-ws.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/kerby.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/uddi-naming/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/uddi-naming/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/uddi-naming/src/main/java/pt/ulisboa/tecnico/sdis/ws/uddi/UDDINaming.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/uddi-naming/src/main/java/pt/ulisboa/tecnico/sdis/ws/uddi/UDDINamingApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/uddi-naming/src/main/java/pt/ulisboa/tecnico/sdis/ws/uddi/UDDINamingException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/uddi-naming/src/main/java/pt/ulisboa/tecnico/sdis/ws/uddi/UDDIRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/uddi-naming/src/main/resources/commons-logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/uddi-naming/src/main/resources/simplelog.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/uddi-naming/src/main/resources/uddi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/uddi-naming/src/test/java/pt/ulisboa/tecnico/sdis/ws/uddi/BaseIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/uddi-naming/src/test/java/pt/ulisboa/tecnico/sdis/ws/uddi/UDDINamingIT.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kerby/uddi-naming/src/test/resources/test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ws-handlers/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ws-handlers/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/ecar-ws-cli/target/" />
     <ignored path="$PROJECT_DIR$/park-ws-cli/target/" />
     <ignored path="$PROJECT_DIR$/ecar-ws/target/" />
     <ignored path="$PROJECT_DIR$/park-ws/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/ws-handlers/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +59,7 @@
     <session id="-2111163918">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.9" value="1" />
@@ -30,26 +68,33 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="22" />
-          <entry key="xml" value="11" />
+          <entry key="LICENSE" value="1" />
+          <entry key="class" value="1" />
+          <entry key="java" value="43" />
+          <entry key="wsdl" value="2" />
+          <entry key="xml" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="22" />
-          <entry key="XML" value="11" />
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="43" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="545" />
-          <entry key="xml" value="76" />
+          <entry key="java" value="825" />
+          <entry key="txt" value="3" />
+          <entry key="xml" value="151" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="545" />
-          <entry key="XML" value="76" />
+          <entry key="JAVA" value="825" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="XML" value="151" />
         </counts>
       </usages-collector>
     </session>
@@ -57,57 +102,70 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ws-handlers/src/main/java/com.ecar/ws/handler/CypherHandler.java">
+        <entry file="file://$PROJECT_DIR$/kerby/kerby-ws/src/main/java/pt/ulisboa/tecnico/sdis/kerby/KerbyPortImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+            <state>
+              <caret column="20" selection-start-column="20" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kerby/kerby-ws/src/main/java/pt/ulisboa/tecnico/sdis/kerby/UserNouncePair.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-78">
+              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#397#398#0" expanded="true" />
-                <element signature="e#424#425#0" expanded="true" />
-                <element signature="method#close#0;class#CypherHandler#0" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kerby/kerby-lib/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kerby/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kerby/kerby-ws-cli/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kerby/kerby-ws/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="689">
+              <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ws-handlers/src/main/java/com.ecar/ws/handler/KerberosClientHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="740">
-              <caret line="37" column="70" selection-start-line="37" selection-start-column="70" selection-end-line="37" selection-end-column="70" />
-              <folding>
-                <element signature="e#5340#5341#0" expanded="true" />
-                <element signature="e#5358#5359#0" expanded="true" />
-                <element signature="e#5619#5620#0" expanded="true" />
-                <element signature="e#5638#5639#0" expanded="true" />
-                <element signature="e#5683#5684#0" expanded="true" />
-                <element signature="e#5701#5702#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ecar-ws/src/main/java/com/ecar/ws/ECarApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ecar-ws/src/main/java/com/ecar/ws/LifeProof.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="171">
+              <caret line="23" selection-start-line="23" selection-end-line="28" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -115,68 +173,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ws-handlers/src/main/java/com.ecar/ws/handler/KerberosServerHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="29" selection-start-line="29" selection-end-line="34" selection-end-column="70" />
-              <folding>
-                <element signature="e#6342#6343#0" expanded="true" />
-                <element signature="e#6360#6361#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="171">
+              <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/CypherHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-622">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ecar-ws-cli/src/jaxws/handler-chain-binding.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ecar-ws-cli/src/jaxws/ImplService_handler.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="811">
-              <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ws-handlers/src/main/java/com.ecar/ws/handler/HeaderHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ws-handlers/src/main/java/com.ecar/ws/handler/MessageContextHandler.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ws-handlers/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="580">
-              <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kerby/LICENSE">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -194,8 +208,23 @@
         <option value="$PROJECT_DIR$/ecar-ws-cli/src/jaxws/handler-chain-binding.xml" />
         <option value="$PROJECT_DIR$/ecar-ws-cli/src/jaxws/ImplService_handler.xml" />
         <option value="$PROJECT_DIR$/ws-handlers/src/main/java/com.ecar/ws/handler/CypherHandler.java" />
-        <option value="$PROJECT_DIR$/ws-handlers/src/main/java/com.ecar/ws/handler/KerberosServerHandler.java" />
+        <option value="$PROJECT_DIR$/kerby/pom.xml" />
+        <option value="$PROJECT_DIR$/kerby/uddi-naming/pom.xml" />
+        <option value="$PROJECT_DIR$/kerby/kerby-lib/pom.xml" />
+        <option value="$PROJECT_DIR$/kerby/kerby-ws-cli/src/main/java/pt/ulisboa/tecnico/sdis/kerby/cli/KerbyClient.java" />
+        <option value="$PROJECT_DIR$/kerby/kerby-ws-cli/src/main/java/pt/ulisboa/tecnico/sdis/kerby/cli/KerbyClientApp.java" />
+        <option value="$PROJECT_DIR$/kerby/kerby-ws-cli/src/main/java/pt/ulisboa/tecnico/sdis/kerby/cli/KerbyClientException.java" />
+        <option value="$PROJECT_DIR$/kerby/kerby-ws/src/main/java/pt/ulisboa/tecnico/sdis/kerby/KerbyApp.java" />
+        <option value="$PROJECT_DIR$/kerby/kerby-ws/src/main/java/pt/ulisboa/tecnico/sdis/kerby/BadTicketRequestException.java" />
+        <option value="$PROJECT_DIR$/kerby/kerby-ws/src/main/java/pt/ulisboa/tecnico/sdis/kerby/KerbyEndpointManager.java" />
+        <option value="$PROJECT_DIR$/kerby/kerby-ws/src/main/java/pt/ulisboa/tecnico/sdis/kerby/KerbyManager.java" />
+        <option value="$PROJECT_DIR$/kerby/kerby-ws/src/main/java/pt/ulisboa/tecnico/sdis/kerby/KerbyPortImpl.java" />
+        <option value="$PROJECT_DIR$/kerby/kerby-ws/src/main/java/pt/ulisboa/tecnico/sdis/kerby/UserNouncePair.java" />
+        <option value="$PROJECT_DIR$/kerby/kerby-ws-cli/pom.xml" />
+        <option value="$PROJECT_DIR$/kerby/kerby-ws/pom.xml" />
         <option value="$PROJECT_DIR$/ws-handlers/src/main/java/com.ecar/ws/handler/KerberosClientHandler.java" />
+        <option value="$PROJECT_DIR$/ws-handlers/src/main/java/com.ecar/ws/handler/KerberosServerHandler.java" />
+        <option value="$PROJECT_DIR$/ws-handlers/pom.xml" />
       </list>
     </option>
   </component>
@@ -204,6 +233,13 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1680" />
@@ -225,149 +261,11 @@
             <path>
               <item name="ecar" type="b2602c69:ProjectViewProjectNode" />
               <item name="proj_ecar" type="462c0819:PsiDirectoryNode" />
-              <item name="ecar-ws" type="462c0819:PsiDirectoryNode" />
+              <item name="ecar-contract" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ecar" type="b2602c69:ProjectViewProjectNode" />
               <item name="proj_ecar" type="462c0819:PsiDirectoryNode" />
-              <item name="ecar-ws" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proj_ecar" type="462c0819:PsiDirectoryNode" />
-              <item name="ecar-ws" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proj_ecar" type="462c0819:PsiDirectoryNode" />
-              <item name="ecar-ws" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proj_ecar" type="462c0819:PsiDirectoryNode" />
-              <item name="ecar-ws" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ecar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proj_ecar" type="462c0819:PsiDirectoryNode" />
-              <item name="ecar-ws" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ecar" type="462c0819:PsiDirectoryNode" />
-              <item name="ws" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proj_ecar" type="462c0819:PsiDirectoryNode" />
-              <item name="ecar-ws" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proj_ecar" type="462c0819:PsiDirectoryNode" />
-              <item name="kerby" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proj_ecar" type="462c0819:PsiDirectoryNode" />
-              <item name="kerby" type="462c0819:PsiDirectoryNode" />
-              <item name="kerby-lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proj_ecar" type="462c0819:PsiDirectoryNode" />
-              <item name="kerby" type="462c0819:PsiDirectoryNode" />
-              <item name="kerby-lib" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proj_ecar" type="462c0819:PsiDirectoryNode" />
-              <item name="kerby" type="462c0819:PsiDirectoryNode" />
-              <item name="kerby-lib" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proj_ecar" type="462c0819:PsiDirectoryNode" />
-              <item name="kerby" type="462c0819:PsiDirectoryNode" />
-              <item name="kerby-lib" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proj_ecar" type="462c0819:PsiDirectoryNode" />
-              <item name="kerby" type="462c0819:PsiDirectoryNode" />
-              <item name="kerby-lib" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proj_ecar" type="462c0819:PsiDirectoryNode" />
-              <item name="kerby" type="462c0819:PsiDirectoryNode" />
-              <item name="kerby-lib" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pt" type="462c0819:PsiDirectoryNode" />
-              <item name="ulisboa" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proj_ecar" type="462c0819:PsiDirectoryNode" />
-              <item name="kerby" type="462c0819:PsiDirectoryNode" />
-              <item name="kerby-lib" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pt" type="462c0819:PsiDirectoryNode" />
-              <item name="ulisboa" type="462c0819:PsiDirectoryNode" />
-              <item name="tecnico" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proj_ecar" type="462c0819:PsiDirectoryNode" />
-              <item name="kerby" type="462c0819:PsiDirectoryNode" />
-              <item name="kerby-lib" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pt" type="462c0819:PsiDirectoryNode" />
-              <item name="ulisboa" type="462c0819:PsiDirectoryNode" />
-              <item name="tecnico" type="462c0819:PsiDirectoryNode" />
-              <item name="sdis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proj_ecar" type="462c0819:PsiDirectoryNode" />
-              <item name="kerby" type="462c0819:PsiDirectoryNode" />
-              <item name="kerby-lib" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pt" type="462c0819:PsiDirectoryNode" />
-              <item name="ulisboa" type="462c0819:PsiDirectoryNode" />
-              <item name="tecnico" type="462c0819:PsiDirectoryNode" />
-              <item name="sdis" type="462c0819:PsiDirectoryNode" />
               <item name="kerby" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -403,27 +301,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com.ecar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proj_ecar" type="462c0819:PsiDirectoryNode" />
-              <item name="ws-handlers" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com.ecar" type="462c0819:PsiDirectoryNode" />
-              <item name="ws" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ecar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proj_ecar" type="462c0819:PsiDirectoryNode" />
-              <item name="ws-handlers" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com.ecar" type="462c0819:PsiDirectoryNode" />
-              <item name="ws" type="462c0819:PsiDirectoryNode" />
               <item name="handler" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -437,7 +314,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544053471470" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544106124527" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -466,12 +343,20 @@
       <workItem from="1543969015174" duration="96000" />
       <workItem from="1544010574327" duration="91000" />
       <workItem from="1544010929864" duration="2464000" />
-      <workItem from="1544045790217" duration="3576000" />
+      <workItem from="1544045790217" duration="7428000" />
     </task>
+    <task id="LOCAL-00001" summary="lul">
+      <created>1544053557547</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544053557547</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6227000" />
+    <option name="totallyTimeSpent" value="10079000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -512,6 +397,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lul" />
+    <option name="LAST_COMMIT_MESSAGE" value="lul" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ws-handlers/src/test/java/example/ws/handler/HeaderHandlerTest.java" />
     <entry file="file://$PROJECT_DIR$/ws-handlers/src/test/java/example/ws/handler/HandlersConfigTest.java" />
@@ -543,16 +432,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ecar-ws/src/main/java/com/ecar/ws/ECarPortImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ws-handlers/src/main/java/com.ecar/ws/handler/EndpointAddressHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -562,27 +441,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ws-handlers/src/main/java/com.ecar/ws/handler/LogHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#944#945#0" expanded="true" />
-            <element signature="e#962#963#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kerby/kerby-ws/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kerby/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ws-handlers/src/main/java/com.ecar/ws/handler/HandlersConfig.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ws-handlers/src/main/java/com.ecar/ws/handler/PrettyLogHandler.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -598,13 +456,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="52" column="43" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ecar-ws/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-555">
-          <caret line="55" column="34" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -665,7 +516,7 @@
     <entry file="file://$PROJECT_DIR$/ecar-ws/src/main/java/com/ecar/ws/ECarApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -675,7 +526,7 @@
     <entry file="file://$PROJECT_DIR$/ecar-ws/src/main/java/com/ecar/ws/LifeProof.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
-          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -685,36 +536,211 @@
     <entry file="file://$PROJECT_DIR$/ws-handlers/src/main/java/com.ecar/ws/handler/HeaderHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ws-handlers/src/main/java/com.ecar/ws/handler/KerberosServerHandler.java">
+    <entry file="file://$PROJECT_DIR$/ws-handlers/src/main/java/com.ecar/ws/handler/HandlersConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="29" selection-start-line="29" selection-end-line="34" selection-end-column="70" />
+        <state relative-caret-position="40">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
           <folding>
-            <element signature="e#6342#6343#0" expanded="true" />
-            <element signature="e#6360#6361#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecar-ws/src/main/java/com/ecar/ws/ECarPortImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="980">
+          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ws-handlers/src/main/java/com.ecar/ws/handler/LogHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#944#945#0" expanded="true" />
+            <element signature="e#962#963#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kerby/kerby-lib/src/main/java/pt/ulisboa/tecnico/sdis/kerby/KerbyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kerby/kerby-experiment/src/main/java/example/KerbyExperiment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kerby/kerby-experiment/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ecar-ws/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="63" column="11" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kerby/uddi-naming/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1095">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kerby/kerby-contract/KerbyService.wsdl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kerby/kerby-ws-cli/src/main/java/pt/ulisboa/tecnico/sdis/kerby/cli/KerbyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kerby/kerby-ws-cli/src/main/java/pt/ulisboa/tecnico/sdis/kerby/cli/KerbyClientApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kerby/kerby-ws-cli/src/main/java/pt/ulisboa/tecnico/sdis/kerby/cli/KerbyClientException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kerby/kerby-ws/src/main/java/pt/ulisboa/tecnico/sdis/kerby/KerbyApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kerby/kerby-ws/src/main/java/pt/ulisboa/tecnico/sdis/kerby/BadTicketRequestException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kerby/kerby-ws/src/main/java/pt/ulisboa/tecnico/sdis/kerby/KerbyEndpointManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kerby/kerby-ws/src/main/java/pt/ulisboa/tecnico/sdis/kerby/KerbyManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kerby/kerby-ws/src/main/java/pt/ulisboa/tecnico/sdis/kerby/KerbyPortImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kerby/kerby-lib/target/classes/pt/ulisboa/tecnico/sdis/kerby/CipherClerk.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1589#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kerby/kerby-ws/src/main/java/pt/ulisboa/tecnico/sdis/kerby/UserNouncePair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kerby/kerby-lib/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kerby/kerby-ws-cli/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kerby/kerby-ws/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="689">
+          <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kerby/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kerby/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ws-handlers/src/main/java/com.ecar/ws/handler/KerberosClientHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
-          <caret line="37" column="70" selection-start-line="37" selection-start-column="70" selection-end-line="37" selection-end-column="70" />
-          <folding>
-            <element signature="e#5340#5341#0" expanded="true" />
-            <element signature="e#5358#5359#0" expanded="true" />
-            <element signature="e#5619#5620#0" expanded="true" />
-            <element signature="e#5638#5639#0" expanded="true" />
-            <element signature="e#5683#5684#0" expanded="true" />
-            <element signature="e#5701#5702#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="171">
+          <caret line="23" selection-start-line="23" selection-end-line="28" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ws-handlers/src/main/java/com.ecar/ws/handler/KerberosServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ws-handlers/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
         </state>
       </provider>
     </entry>

@@ -10,6 +10,7 @@
         <module name="ecar-ws-cli" />
         <module name="park-ws" />
         <module name="park-ws-cli" />
+        <module name="ws-handlers" />
       </profile>
     </annotationProcessing>
   </component>
